@@ -1,16 +1,16 @@
 {
 "站名":"天天直播",
-"主页url":"https://88jjav.com/live",
+"主页url":"https://yyrav.vip/live",
 "直接播放":"1",
 
-"链接前缀":"https://88jjav.com",
-"副标题":"<div class=\"duration\">&&</div>",
+"链接前缀":"https://yyrav.vip/",
 
-"分类":"亚洲直播$jj88/love/gwzb#欧美直播$jj88/love/omzb#国内直播$jjav",
-"分类url":"https://88jjav.com/live/?s={cateId}/love/{class}.html",
+"副标题":"<div class=\"duration\">&&</div>",
+"分类":"亚洲直播$yzzb/rr/gwzb#中文直播$yzzb/rr/cnzb#日本直播$yzzb/rr/ryzb#欧美直播$yzzb/rr/omzb#越南直播$yzzb/rr/yyzb#俄国直播$yzzb/rr/egzb#乌克兰直播$yzzb/rr/wkl#国内直播$xxj",
+"分类url":"https://yyrav.vip/live/?jj={cateId}/rr/{class}.html",
 
 "筛选":{
-"jjav":[
+"xxj":[
 {
 "key":"class",
 "name":"",
@@ -78,6 +78,9 @@
 {"n":"飘雪直播","v":"px"},
 {"n":"樱桃直播","v":"yt"},
 {"n":"奥斯卡直播","v":"ask"},
+{"n":"兔女郎直播","v":"tnl"},
+{"n":"花仙子直播","v":"hxz"},
+{"n":"小性感直播","v":"xxg"},
 {"n":"兔女郎直播","v":"tnl"},
 {"n":"花仙子直播","v":"hxz"},
 {"n":"小性感直播","v":"xxg"}
